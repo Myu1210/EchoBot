@@ -282,7 +282,8 @@ EchoBot uses a unified media structure to simplify content management. All media
 
 This project is under active development.
 Community contributions are welcome via pull requests.
-
+- Myu1210 — BNixdfAitapwGXrNx6ejfJWe1e91A8dEujo329dxweVA
+- 
 ## Setup Notes
 
 Before running EchoBot:
